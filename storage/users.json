@@ -2,5 +2,17 @@
   {
     "username": "min",
     "password": "$2a$10$TE3wGIIcFeFNjo8uEB6uh.7pkK2dpnmhEvpxWZpxsDcGSVNISgH7i"
+  },
+  {
+    "username": "jen",
+    "password": "$2a$10$JKYnCy/gpBiiWcFtNpdZRu9WSwlbAk9FC8JfqfFKavwrPM1XWTyWu"
+  },
+  {
+    "username": "student1",
+    "password": "$2a$10$hPDgK74LxTGuZrr/FPec8egIs3tLlHG.6VS2sz3R4R2UUJvKs1Kby"
+  },
+  {
+    "username": "jennit",
+    "password": "$2a$10$5pWPMxqb222RQOraxMtWN.4WJqEwN6yBWeEHFL/My.AuVV0fGJfxy"
   }
 ]
